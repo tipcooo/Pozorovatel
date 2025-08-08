@@ -1,0 +1,2 @@
+# Pozorovatel
+checkuje stranku
